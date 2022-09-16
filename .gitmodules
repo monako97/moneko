@@ -13,3 +13,9 @@
 [submodule "stylelint"]
 	path = stylelint
 	url = git@github.com:monako97/moneko-stylelint.git
+[submodule "core"]
+	path = core
+	url = git@github.com:monako97/moneko-core.git
+[submodule "cli"]
+	path = cli
+	url = git@github.com:monako97/moneko-cli.git
