@@ -1,3 +1,6 @@
 [submodule "request"]
 	path = request
 	url = git@github.com:monako97/moneko-request.git
+[submodule "mock"]
+	path = mock
+	url = git@github.com:monako97/moneko-mock.git
