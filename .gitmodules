@@ -4,3 +4,6 @@
 [submodule "mock"]
 	path = mock
 	url = git@github.com:monako97/moneko-mock.git
+[submodule "postcss"]
+	path = postcss
+	url = git@github.com:monako97/moneko-postcss.git
