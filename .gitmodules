@@ -7,9 +7,6 @@
 [submodule "postcss"]
 	path = postcss
 	url = git@github.com:monako97/moneko-postcss.git
-[submodule "eslint"]
-	path = eslint
-	url = git@github.com:monako97/moneko-eslint.git
 [submodule "stylelint"]
 	path = stylelint
 	url = git@github.com:monako97/moneko-stylelint.git
@@ -19,3 +16,6 @@
 [submodule "cli"]
 	path = cli
 	url = git@github.com:monako97/moneko-cli.git
+[submodule "eslint"]
+	path = eslint
+	url = git@github.com:monako97/eslint-config-neko.git
