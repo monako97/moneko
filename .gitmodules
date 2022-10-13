@@ -19,3 +19,6 @@
 [submodule "eslint"]
 	path = eslint
 	url = git@github.com:monako97/eslint-config-neko.git
+[submodule "common"]
+	path = common
+	url = git@github.com:monako97/moneko-common.git
