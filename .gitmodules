@@ -25,3 +25,19 @@
 [submodule "sso"]
 	path = sso
 	url = git@github.com:monako97/shared-store-object.git
+[submodule "solidjs-mdx"]
+	path = solidjs-mdx
+	url = git@github.com:monako97/solidjs-mdx.git
+[submodule "solid-js"]
+	path = solid-js
+	url = git@github.com:monako97/moneko-solid-js.git
+[submodule "css"]
+	path = css
+	url = git@github.com:monako97/css.git
+[submodule "vue"]
+	path = vue
+	url = git@github.com:monako97/moneko-vue.git
+[submodule "react"]
+	path = react
+	url = git@github.com:monako97/moneko-react.git
+
